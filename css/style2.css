@@ -1,0 +1,21 @@
+.container-fluid
+{
+    padding:30px;
+    margin:3px;
+}
+.col-md-4{
+    border:1px solid red;
+    margin:2px;
+    width:30.33%;
+    height:212px;
+}
+
+.row img:hover{
+    opacity:0.6;
+}
+
+.row img 
+{
+    max-width:70%;
+    height:200px;
+}

@@ -1,0 +1,142 @@
+.navbar-default
+{
+    min-height:150px;
+    background-color:wheat;
+}
+
+
+.navbar-header
+{
+    height:85px;
+}
+.navbar-brand img
+{
+    float:left;
+    height:70px;
+    width:100px;
+}
+
+h1
+{
+    text-align:center;
+    color:orange;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium';
+}
+.clearfix{
+    clear: both;
+}
+
+.navbar-collapse
+{
+   
+}
+
+/* .navbar-nav{
+    width:250px;
+    padding-top:10px;
+    height:53px;
+}
+
+.navbar-right
+{
+    width:180px;
+    float:right;
+}
+
+.navbar-form
+{
+    margin-top:20px;
+}
+/* ul
+{
+    height:150px;
+    width:100%;
+} */
+.container-fluid .carousel
+{
+    padding-top:5px;
+    height:150px;
+}
+
+
+.dropdown-menu li a{
+    padding:14px 20px;
+}
+
+.dropdown-menu li a:hover{
+    background-color:#9B4DEA;
+}
+
+ul li
+{
+    height:53px;
+}
+ul li:hover
+{
+    background-color:hotpink;
+}
+h2
+{
+    text-align:center;
+}
+p
+{
+    font-family:Courier New;
+}
+.dropdown-menu 
+{
+    height:211px;
+    text-align:center;
+}
+a
+{
+    height:inherit;
+}
+
+.container-fluid .carousel
+{
+    height:495px;
+}
+
+.carousel-inner{
+    height:495px;
+}
+
+.carousel-inner .item img
+{
+    height:495px;
+    width:100%
+}
+
+
+/*.navbar-default .navbar-nav.active a
+{
+    text-align:center;
+}*/
+
+.navbar-collapse
+{
+    background-color:wheat;
+    height:200px;
+    width:100%
+}
+
+/*
+.navbar-collapse .navbar-nav.active a:hover{
+    background-color: hotpink;
+}*/
+
+.progress
+{
+    margin-top:10px;
+}
+.pagination{
+    height:40px;
+    margin-left:50px;
+}
+
+.pagination li
+{
+    height:40px;
+}
